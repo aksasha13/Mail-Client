@@ -1,4 +1,4 @@
-![ы](https://user-images.githubusercontent.com/75273945/135920781-2e976df7-0096-457c-b5a4-d26b9e0760f3.PNG)
+![image](https://user-images.githubusercontent.com/75273945/153838210-a24560fb-7cc4-49d8-9671-8ff24e52c1d2.png)
 # Mail-Client
 
 This is an E-mail client program that will manage all the Emails that are inside the company, a very basic concept program.
